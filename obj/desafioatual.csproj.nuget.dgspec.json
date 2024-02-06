@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\desafioatual.csproj": {}
+    "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\desafioatual.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\desafioatual.csproj": {
+    "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\desafioatual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\desafioatual.csproj",
+        "projectUniqueName": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\desafioatual.csproj",
         "projectName": "desafioatual",
-        "projectPath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\desafioatual.csproj",
+        "projectPath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\desafioatual.csproj",
         "packagesPath": "C:\\Users\\STD Suporte 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\obj\\",
+        "outputPath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\STD Suporte 1\\AppData\\Roaming\\NuGet\\NuGet.Config"

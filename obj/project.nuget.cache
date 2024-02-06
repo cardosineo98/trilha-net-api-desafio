@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E5n1Ky8efCIHTmL+oM+7XHY46cKCbPRZJIpQSi74MtYxGnUMvdrymqDSZI+4XRT6kRG+mHX8gnNxCgmx/BHhdw==",
+  "dgSpecHash": "9pi7QpTBGSfApmYdcDPi47/jmKRd9pWD+x6edZu0/nabGOitD3Ad9Vk94Lbc7yM6h7avRQfwrqZarpZ6Q5lfiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilha-net-api-desafio\\desafioatual.csproj",
+  "projectFilePath": "C:\\Users\\STD Suporte 1\\Documents\\desafioapi\\trilhanetapidesafio\\desafioatual.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STD Suporte 1\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\STD Suporte 1\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
